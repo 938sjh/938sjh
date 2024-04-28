@@ -4,13 +4,10 @@
 - Bachelor's Degree in Economics and Computer Science, Sogang University (2019.03 ~ 2024.02)
 
 
-- 🔭 I’m currently working on [Petmon](https://github.com/938sjh/petmon)
-
 - 🌱 I’m currently learning **React, NodeJs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/938sjh?tab=repositories](https://github.com/938sjh?tab=repositories)
 
-- 💬 Ask me about **SystemProgramming, OS**
 
 <p align="left">
 </p>
