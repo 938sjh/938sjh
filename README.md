@@ -1,3 +1,9 @@
+<h3>About Me</h3>
+<ul>
+<li>송재현 (JaeHyeon Song)</li>
+<li>Bachelor's Degree in Economics and Computer Science, Sogang University (2019.03 ~ 2024.02)</li>
+</ul>
+
 - 🔭 I’m currently working on [Petmon](https://github.com/938sjh/petmon)
 
 - 🌱 I’m currently learning **React, NodeJs, MongoDB**
