@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/938sjh?tab=repositories](https://github.com/938sjh?tab=repositories)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=938sjh)](https://solved.ac/938sjh)
+
 
 <p align="left">
 </p>
