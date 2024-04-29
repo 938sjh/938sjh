@@ -4,7 +4,7 @@
 - Bachelor's Degree in Computer Science and Economics, Sogang University (2019.03 ~ 2023.02)
 
 
-- 🌱 I’m currently learning **React, NodeJs, MongoDB**
+- 🌱 I’m currently learning **React, NodeJs, MongoDB, Docker, Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://github.com/938sjh?tab=repositories](https://github.com/938sjh?tab=repositories)
 
