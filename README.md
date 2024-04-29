@@ -1,7 +1,7 @@
 <h3>About Me</h3>
 
 - 송재현 (JaeHyeon Song)
-- Bachelor's Degree in Computer Science and Economics, Sogang University (2019.03 ~ 2024.02)
+- Bachelor's Degree in Computer Science and Economics, Sogang University (2019.03 ~ 2023.02)
 
 
 - 🌱 I’m currently learning **React, NodeJs, MongoDB**
